@@ -1,5 +1,6 @@
 img {
     width: 200px;
+    border-radius:99px;
 }
 body {
     text-align: center;
@@ -11,4 +12,9 @@ body {
 h1 {
     font-family: Arial;
     font-style: oblique;
+}
+
+em {
+    color:#630035;
+    font-weight:bold;
 }
