@@ -4,4 +4,11 @@ img {
 body {
     text-align: center;
     font-family: "Arial";
+    background:#ffcee8;
+    color:#00000000;
+}
+
+h1 {
+    font-family: Arial;
+    font-style: oblique;
 }
